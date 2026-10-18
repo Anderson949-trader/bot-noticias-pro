@@ -1,5 +1,5 @@
-pyTelegramBotAPI>=4.14.0
-flask>=3.0.0
-apscheduler>=3.10.0
-pytz>=2024.1
-requests>=2.31.0
+pyTelegramBotAPI
+Flask
+APScheduler
+pytz
+beautifulsoup4
