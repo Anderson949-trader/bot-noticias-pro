@@ -72,8 +72,8 @@ polling de Telegram al final.
 ════════════════════════════════════════════════════════════════════════════
  CONFIGURACIÓN NECESARIA (variables de entorno, NO las escribas en el código)
 ════════════════════════════════════════════════════════════════════════════
-  TELEGRAM_TOKEN   -> el token que te da @BotFather
-  TELEGRAM_CHAT_ID -> tu ID numérico de Telegram (te lo da @userinfobot)
+  TELEGRAM_TOKEN   -> 8007552290:AAHH8KQrYklwR6oh8Tjw2_VbUvXs1D8Zd_I
+  TELEGRAM_CHAT_ID -> 848594835
 
   En Render: Dashboard -> tu servicio -> Environment -> Add Environment
   Variable. En tu máquina para probar: crea un archivo ".env" (no lo subas
